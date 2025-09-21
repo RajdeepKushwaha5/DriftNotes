@@ -4,7 +4,7 @@
 
 DriftNotes is a serene, immersive 3D beach environment where users anonymously share messages inside virtual glass bottles that float gently across a shimmering ocean. Built with modern web technologies, it’s not just an app — it’s an *experience*.
 
-Created with ❤️ by [Rajdeep Singh](https://github.com/RajdeepKushwaha5) (2025).
+Created with ❤️ by [Rajdeep Singh](https://github.com/RajdeepKushwaha5)
 
 ---
 
